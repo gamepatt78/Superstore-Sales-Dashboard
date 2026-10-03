@@ -37,7 +37,7 @@ The KPI cards and charts in the supplied preview do not reconcile: the sales KPI
 | --- | --- |
 | [`Superstore_Sales_Dashboard.pbix`](Superstore_Sales_Dashboard.pbix) | Power BI Desktop report |
 | [`dashboard-preview.png`](dashboard-preview.png) | Dashboard screenshot |
-| [`Superstore_Sales_Report.pdf`](Superstore_Sales_Report.pdf) | Clean, two-page summary report |
+| [`Superstore_Sales_Report.pdf`](Superstore_Sales_Report.pdf) | Clean, three-page summary with clickable GitHub, video, and LinkedIn links |
 
 ## Open the dashboard
 
