@@ -136,7 +136,6 @@ The demonstration video is **4 minutes 41 seconds** and covers the dashboard.
 - **GitHub Repository:** [Superstore Sales Dashboard](https://github.com/gamepatt78/Superstore-Sales-Dashboard)
 - **LinkedIn Post:** [View the project post](https://www.linkedin.com/posts/athwin-videsh-b40723125_encoderx-datascience-internship-activity-7510610153386287105-aqJK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7loKABy96QN1T_ROM6RZW8QYh_lshfE4w)
 - **Project Report:** [Download the PDF report](Superstore_Sales_Report.pdf)
-- **Power BI sharing link:** Not provided; open the PBIX file in Power BI Desktop.
 
 ---
 
