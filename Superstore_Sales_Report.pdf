@@ -1,0 +1,196 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 5823 >>
+stream
+0.96 0.97 0.98 rg 0 0 595 842 re f
+0.08 0.16 0.25 rg 0 748 595 94 re f
+0.07 0.61 0.56 rg 48 770 4 48 re f
+BT /F2 8 Tf 0.48 0.85 0.79 rg 1 0 0 1 64 812 Tm (POWER BI  /  PROJECT REPORT) Tj ET
+BT /F2 24 Tf 1 1 1 rg 1 0 0 1 64 780 Tm (Superstore Sales Dashboard) Tj ET
+BT /F1 9 Tf 0.84 0.89 0.93 rg 1 0 0 1 64 760 Tm (Executive snapshot  |  Prepared from the supplied dashboard preview) Tj ET
+BT /F2 8 Tf 0.07 0.61 0.56 rg 1 0 0 1 48 716 Tm (HEADLINE KPIs  -  VALUES AS DISPLAYED) Tj ET
+1 1 1 rg 48 638 94.2 62 re f
+0.7 w 0.87 0.9 0.92 RG 48 638 94.2 62 re S
+BT /F2 7 Tf 0.38 0.45 0.52 rg 1 0 0 1 57 679 Tm (TOTAL SALES) Tj ET
+BT /F2 14 Tf 0.08 0.16 0.25 rg 1 0 0 1 57 652 Tm (249.12K) Tj ET
+1 1 1 rg 149 638 94.2 62 re f
+0.7 w 0.87 0.9 0.92 RG 149 638 94.2 62 re S
+BT /F2 7 Tf 0.38 0.45 0.52 rg 1 0 0 1 158 679 Tm (TOTAL ORDERS) Tj ET
+BT /F2 14 Tf 0.08 0.16 0.25 rg 1 0 0 1 158 652 Tm (557) Tj ET
+1 1 1 rg 250 638 94.2 62 re f
+0.7 w 0.87 0.9 0.92 RG 250 638 94.2 62 re S
+BT /F2 7 Tf 0.38 0.45 0.52 rg 1 0 0 1 259 679 Tm (TOTAL PROFIT) Tj ET
+BT /F2 14 Tf 0.08 0.16 0.25 rg 1 0 0 1 259 652 Tm (42.03K) Tj ET
+1 1 1 rg 351 638 94.2 62 re f
+0.7 w 0.87 0.9 0.92 RG 351 638 94.2 62 re S
+BT /F2 7 Tf 0.38 0.45 0.52 rg 1 0 0 1 360 679 Tm (PROFIT MARGIN) Tj ET
+BT /F2 14 Tf 0.08 0.16 0.25 rg 1 0 0 1 360 652 Tm (0.17) Tj ET
+1 1 1 rg 452 638 94.2 62 re f
+0.7 w 0.87 0.9 0.92 RG 452 638 94.2 62 re S
+BT /F2 7 Tf 0.38 0.45 0.52 rg 1 0 0 1 461 679 Tm (TOTAL QUANTITY) Tj ET
+BT /F2 14 Tf 0.08 0.16 0.25 rg 1 0 0 1 461 652 Tm (4K) Tj ET
+BT /F2 13 Tf 0.08 0.16 0.25 rg 1 0 0 1 48 606 Tm (What the dashboard is built to answer) Tj ET
+BT /F1 9 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 586 Tm (How are sales changing over time, and where do product and regional results differ?) Tj ET
+BT /F1 9 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 572 Tm (KPI cards, interactive slicers, and comparison charts make these views available in one report.) Tj ET
+BT /F2 8 Tf 0.07 0.61 0.56 rg 1 0 0 1 48 538 Tm (VISIBLE LEADERS  -  CHART LABELS) Tj ET
+1 1 1 rg 48 474 245 50 re f
+0.07 0.61 0.56 rg 48 474 3 50 re f
+BT /F2 7 Tf 0.38 0.45 0.52 rg 1 0 0 1 62 507 Tm (TOP CATEGORY) Tj ET
+BT /F2 13 Tf 0.08 0.16 0.25 rg 1 0 0 1 62 487 Tm (Technology) Tj ET
+BT /F1 8 Tf 0.38 0.45 0.52 rg 1 0 0 1 184 488 Tm (About 0.34M shown) Tj ET
+1 1 1 rg 302 474 245 50 re f
+0.07 0.61 0.56 rg 302 474 3 50 re f
+BT /F2 7 Tf 0.38 0.45 0.52 rg 1 0 0 1 316 507 Tm (TOP REGION) Tj ET
+BT /F2 13 Tf 0.08 0.16 0.25 rg 1 0 0 1 316 487 Tm (West) Tj ET
+BT /F1 8 Tf 0.38 0.45 0.52 rg 1 0 0 1 438 488 Tm (About 0.28M shown) Tj ET
+BT /F2 13 Tf 0.08 0.16 0.25 rg 1 0 0 1 48 444 Tm (Sales trend by year) Tj ET
+BT /F1 8 Tf 0.38 0.45 0.52 rg 1 0 0 1 48 428 Tm (Approximate values read from the line chart in the preview) Tj ET
+0.8 w 0.87 0.9 0.92 RG 76 347 m 535 347 l S
+0.8 w 0.87 0.9 0.92 RG 76 347 m 76 407 l S
+2 w 0.16 0.45 0.82 RG 104 377.24 m 238 398.84 l S
+2 w 0.16 0.45 0.82 RG 238 398.84 m 372 401.72 l S
+2 w 0.16 0.45 0.82 RG 372 401.72 m 506 390.2 l S
+0.16 0.45 0.82 rg 107.5 377.24 m 107.5 379.172996625 105.932996625 380.74 104 380.74 c 102.067003375 380.74 100.5 379.172996625 100.5 377.24 c 100.5 375.307003375 102.067003375 373.74 104 373.74 c 105.932996625 373.74 107.5 375.307003375 107.5 377.24 c f
+BT /F1 8 Tf 0.38 0.45 0.52 rg 1 0 0 1 92 329 Tm (2014) Tj ET
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 95 387.24 Tm (42K) Tj ET
+0.16 0.45 0.82 rg 241.5 398.84 m 241.5 400.77299662499996 239.932996625 402.34 238 402.34 c 236.067003375 402.34 234.5 400.77299662499996 234.5 398.84 c 234.5 396.907003375 236.067003375 395.34 238 395.34 c 239.932996625 395.34 241.5 396.907003375 241.5 398.84 c f
+BT /F1 8 Tf 0.38 0.45 0.52 rg 1 0 0 1 226 329 Tm (2015) Tj ET
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 229 408.84 Tm (72K) Tj ET
+0.16 0.45 0.82 rg 375.5 401.72 m 375.5 403.652996625 373.932996625 405.22 372 405.22 c 370.067003375 405.22 368.5 403.652996625 368.5 401.72 c 368.5 399.78700337500004 370.067003375 398.22 372 398.22 c 373.932996625 398.22 375.5 399.78700337500004 375.5 401.72 c f
+BT /F1 8 Tf 0.38 0.45 0.52 rg 1 0 0 1 360 329 Tm (2016) Tj ET
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 363 411.72 Tm (76K) Tj ET
+0.16 0.45 0.82 rg 509.5 390.2 m 509.5 392.132996625 507.932996625 393.7 506 393.7 c 504.067003375 393.7 502.5 392.132996625 502.5 390.2 c 502.5 388.267003375 504.067003375 386.7 506 386.7 c 507.932996625 386.7 509.5 388.267003375 509.5 390.2 c f
+BT /F1 8 Tf 0.38 0.45 0.52 rg 1 0 0 1 494 329 Tm (2017) Tj ET
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 497 400.2 Tm (60K) Tj ET
+1 1 1 rg 48 260 499 45 re f
+BT /F2 8 Tf 0.07 0.61 0.56 rg 1 0 0 1 62 286 Tm (FILTERS) Tj ET
+BT /F1 9 Tf 0.12 0.18 0.25 rg 1 0 0 1 62 270 Tm (Time \(year / quarter / month\)   |   Region   |   Category) Tj ET
+BT /F2 13 Tf 0.08 0.16 0.25 rg 1 0 0 1 48 229 Tm (At a glance) Tj ET
+BT /F1 9 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 208 Tm (The preview shows an annual sales rise through 2016, followed by a lower 2017 result.) Tj ET
+BT /F1 9 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 192 Tm (Technology leads the displayed category chart; West leads the displayed regional chart.) Tj ET
+1 0.96 0.89 rg 48 91 499 78 re f
+0.88 0.56 0.16 rg 48 91 4 78 re f
+BT /F2 9 Tf 0.49 0.31 0.12 rg 1 0 0 1 62 149 Tm (VALIDATION NOTE) Tj ET
+BT /F1 8 Tf 0.49 0.31 0.12 rg 1 0 0 1 62 132 Tm (The KPI sales value is 249.12K, while category and regional chart labels appear) Tj ET
+BT /F1 8 Tf 0.49 0.31 0.12 rg 1 0 0 1 62 118 Tm (to total about 0.89M. Validate measures, filters, and aggregation context in Power BI) Tj ET
+BT /F1 8 Tf 0.49 0.31 0.12 rg 1 0 0 1 62 104 Tm (before relying on chart totals. This visual review does not resolve the discrepancy.) Tj ET
+0.8 w 0.87 0.9 0.92 RG 48 42 m 547 42 l S
+BT /F1 8 Tf 0.38 0.45 0.52 rg 1 0 0 1 48 25 Tm (SUPERSTORE SALES DASHBOARD  |  PROJECT SUMMARY) Tj ET
+BT /F2 8 Tf 0.38 0.45 0.52 rg 1 0 0 1 526 25 Tm (01) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4899 >>
+stream
+0.96 0.97 0.98 rg 0 0 595 842 re f
+0.08 0.16 0.25 rg 0 748 595 94 re f
+0.07 0.61 0.56 rg 48 770 4 48 re f
+BT /F2 8 Tf 0.48 0.85 0.79 rg 1 0 0 1 64 812 Tm (DASHBOARD GUIDE  /  VISUAL REVIEW) Tj ET
+BT /F2 24 Tf 1 1 1 rg 1 0 0 1 64 780 Tm (Explore the breakdowns) Tj ET
+BT /F1 9 Tf 0.84 0.89 0.93 rg 1 0 0 1 64 760 Tm (A concise reading guide to the charts, controls, and interpretation limits) Tj ET
+BT /F2 13 Tf 0.08 0.16 0.25 rg 1 0 0 1 48 718 Tm (Product mix) Tj ET
+BT /F1 8 Tf 0.38 0.45 0.52 rg 1 0 0 1 48 701 Tm (Sales by category  |  approximate chart labels) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 677 Tm (Technology) Tj ET
+0.78 0.87 0.95 rg 150 676 260 8 re f
+0.16 0.45 0.82 rg 150 676 245.55555555555557 8 re f
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 422 677 Tm (0.34M) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 653 Tm (Furniture) Tj ET
+0.78 0.87 0.95 rg 150 652 260 8 re f
+0.16 0.45 0.82 rg 150 652 209.44444444444443 8 re f
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 422 653 Tm (0.29M) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 629 Tm (Office Supplies) Tj ET
+0.78 0.87 0.95 rg 150 628 260 8 re f
+0.16 0.45 0.82 rg 150 628 187.7777777777778 8 re f
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 422 629 Tm (0.26M) Tj ET
+BT /F2 13 Tf 0.08 0.16 0.25 rg 1 0 0 1 48 586 Tm (Regional comparison) Tj ET
+BT /F1 8 Tf 0.38 0.45 0.52 rg 1 0 0 1 48 569 Tm (Sales by region  |  approximate chart labels) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 545 Tm (West) Tj ET
+0.78 0.87 0.95 rg 150 544 260 8 re f
+0.07 0.61 0.56 rg 150 544 242.6666666666667 8 re f
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 422 545 Tm (0.28M) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 522 Tm (East) Tj ET
+0.78 0.87 0.95 rg 150 521 260 8 re f
+0.16 0.45 0.82 rg 150 521 216.66666666666669 8 re f
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 422 522 Tm (0.25M) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 499 Tm (Central) Tj ET
+0.78 0.87 0.95 rg 150 498 260 8 re f
+0.16 0.45 0.82 rg 150 498 182 8 re f
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 422 499 Tm (0.21M) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 476 Tm (South) Tj ET
+0.78 0.87 0.95 rg 150 475 260 8 re f
+0.16 0.45 0.82 rg 150 475 130 8 re f
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 422 476 Tm (0.15M) Tj ET
+0.8 w 0.87 0.9 0.92 RG 48 442 m 547 442 l S
+BT /F2 13 Tf 0.08 0.16 0.25 rg 1 0 0 1 48 418 Tm (Sub-category leaders) Tj ET
+BT /F1 8 Tf 0.38 0.45 0.52 rg 1 0 0 1 48 401 Tm (Approximate sales labels visible in the supplied preview) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 374 Tm (Phones) Tj ET
+0.5 w 0.87 0.9 0.92 RG 48 369 m 273 369 l S
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 242 374 Tm (125K) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 351 Tm (Chairs) Tj ET
+0.5 w 0.87 0.9 0.92 RG 48 346 m 273 346 l S
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 242 351 Tm (125K) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 328 Tm (Tables) Tj ET
+0.5 w 0.87 0.9 0.92 RG 48 323 m 273 323 l S
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 242 328 Tm (89K) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 305 Tm (Storage) Tj ET
+0.5 w 0.87 0.9 0.92 RG 48 300 m 273 300 l S
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 242 305 Tm (85K) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 305 374 Tm (Machines) Tj ET
+0.5 w 0.87 0.9 0.92 RG 305 369 m 530 369 l S
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 499 374 Tm (84K) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 305 351 Tm (Accessories) Tj ET
+0.5 w 0.87 0.9 0.92 RG 305 346 m 530 346 l S
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 499 351 Tm (71K) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 305 328 Tm (Binders) Tj ET
+0.5 w 0.87 0.9 0.92 RG 305 323 m 530 323 l S
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 499 328 Tm (66K) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 305 305 Tm (Copiers) Tj ET
+0.5 w 0.87 0.9 0.92 RG 305 300 m 530 300 l S
+BT /F2 8 Tf 0.08 0.16 0.25 rg 1 0 0 1 499 305 Tm (59K) Tj ET
+1 1 1 rg 48 193 499 66 re f
+BT /F2 8 Tf 0.07 0.61 0.56 rg 1 0 0 1 62 239 Tm (INTERACTIVE CONTROLS) Tj ET
+BT /F1 9 Tf 0.12 0.18 0.25 rg 1 0 0 1 62 221 Tm (Use the time, region, and category slicers to focus the visuals on a selected) Tj ET
+BT /F1 9 Tf 0.12 0.18 0.25 rg 1 0 0 1 62 206 Tm (period or business segment. The preview shows each slicer set to All.) Tj ET
+BT /F2 11 Tf 0.08 0.16 0.25 rg 1 0 0 1 48 168 Tm (Scope and interpretation) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 149 Tm (This report summarizes the supplied screenshot; displayed chart values are rounded.) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 135 Tm (It is not a source-data audit. Some chart totals conflict with the headline sales KPI.) Tj ET
+BT /F1 8 Tf 0.12 0.18 0.25 rg 1 0 0 1 48 121 Tm (Review the PBIX measure definitions and filter interactions to reconcile them.) Tj ET
+0.8 w 0.87 0.9 0.92 RG 48 42 m 547 42 l S
+BT /F1 8 Tf 0.38 0.45 0.52 rg 1 0 0 1 48 25 Tm (SUPERSTORE SALES DASHBOARD  |  PROJECT SUMMARY) Tj ET
+BT /F2 8 Tf 0.38 0.45 0.52 rg 1 0 0 1 526 25 Tm (02) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000006141 00000 n 
+0000006277 00000 n 
+0000011228 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R /Info << /Title (Superstore Sales Dashboard - Project Report) /Author (RAIN CLOUD) >> >>
+startxref
+11364
+%%EOF
